@@ -3,7 +3,7 @@
 **Analyse IA des radiographies COVID-19 basée sur le dataset Kaggle officiel (21 165 images)**[1]
 
 ## 🎯 Dataset Principal
-[![Kaggle COVID19 Radiography](https://img.shields.io/badge/Kaggle-COVID19%20Radiography-blueviolet?logo=kaggle&logoColor=whitehttps://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-databasehttps://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)  
+![Kaggle COVID19 Radiography](https://img.shields.io/badge/Kaggle-COVID19%20Radiography-blueviolet?logo=kaggle&logoColor=whitehttps://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-databasehttps://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)  
 **Images :** 21 165 radiographies thoraciques  
 **Classes :** COVID, Lung Opacity, Normal, Viral Pneumonia[1]
 
